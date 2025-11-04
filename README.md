@@ -9,6 +9,7 @@ A growing collection of my solutions to [Frontend Mentor](https://www.frontendme
 | Challenge | Difficulty | Tech Stack | Live Demo | Repo |
 |------------|-------------|-------------|------------|------|
 | 📰 **Blog Preview Card** | 🟢 Newbie | HTML, CSS | [Live Demo](https://aishwaryagitay.github.io/frontend-mentor-challenges/blog-preview-card-main/) | [Code](./blog-preview-card-main/) |
+| 👤 **Social Links Profile** | 🟢 Newbie | HTML, CSS | [Live Demo](https://aishwaryagitay.github.io/frontend-mentor-challenges/social-links-profile-main/) | [Code](./social-links-profile-main/) |
 
 ---
 
