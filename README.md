@@ -1,28 +1,35 @@
-# Frontend Mentor Challenges
+# 🌐 Frontend Mentor Challenges
 
-A collection of my solutions to Frontend Mentor challenges, showcasing my frontend development skills and learning journey.
-
-## 🚀 Live Demo
-[View All Solutions](https://your-username.github.io/frontend-mentor-challenges/)
-
-## 📋 Challenges Completed
-
-### [Blog Preview Card](./blog-preview-card/)
-- **Difficulty:** Newbie
-- **Technologies:** HTML, CSS
-- **Live Demo:** [View Solution](./blog-preview-card/)
-- **Key Learnings:** Semantic HTML, CSS Box Model, Flexbox
-
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript (where applicable)
-- Responsive Design
-
-## 🎯 Goals
-- Improve HTML/CSS skills
-- Learn responsive design
-- Build a portfolio of real projects
+A growing collection of my solutions to [Frontend Mentor](https://www.frontendmentor.io) challenges built to strengthen my **frontend development skills** through real-world UI projects.
 
 ---
-*Challenges from [Frontend Mentor](https://www.frontendmentor.io)*
+
+## 🧩 Completed Challenges
+
+| Challenge | Difficulty | Tech Stack | Live Demo | Repo |
+|------------|-------------|-------------|------------|------|
+| 📰 **Blog Preview Card** | 🟢 Newbie | HTML, CSS | [Live Demo](https://aishwaryagitay.github.io/frontend-mentor-challenges/blog-preview-card-main/) | [Code](./blog-preview-card-main/) |
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** HTML5, CSS3, JavaScript (for interactive challenges)  
+- **Design Principles:** Responsive layouts, Flexbox, Grid, Accessibility  
+- **Tools:** VS Code, Git, GitHub Pages / Vercel  
+
+---
+
+## 🚀 Learning Focus
+
+- Craft clean, semantic HTML  
+- Build responsive, accessible layouts  
+- Practice reusable and maintainable CSS  
+- Strengthen problem-solving through real UI challenges  
+
+---
+
+
+> 💡 _Every project here is a small step towards becoming a stronger frontend developer._
+
+---
