@@ -10,6 +10,7 @@ A growing collection of my solutions to [Frontend Mentor](https://www.frontendme
 |------------|-------------|-------------|------------|------|
 | 📰 **Blog Preview Card** | 🟢 Newbie | HTML, CSS | [Live Demo](https://aishwaryagitay.github.io/frontend-mentor-challenges/blog-preview-card-main/) | [Code](./blog-preview-card-main/) |
 | 👤 **Social Links Profile** | 🟢 Newbie | HTML, CSS | [Live Demo](https://aishwaryagitay.github.io/frontend-mentor-challenges/social-links-profile-main/) | [Code](./social-links-profile-main/) |
+| 📰 **Product preview card component** | 🟢 Newbie | HTML, CSS | [Live Demo](https://aishwaryagitay.github.io/frontend-mentor-challenges/product-preview-card-component-main/) | [Code](./product-preview-card-component-main/) |
 
 ---
 
